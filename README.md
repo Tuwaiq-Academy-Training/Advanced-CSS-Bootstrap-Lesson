@@ -51,7 +51,7 @@ Css file:
 يحدد الآتجاه اما ان يكون flex-direction: row او  flex-direction: column;
 - justify-content: 
 - وتستقبل عدة خصائص
--  justify-content: center تستخدم لتوسيط المنتجات في منتصف المتصفح بالنسبة لمكانها 
+-  justify-content: center Xتستخدم لتوسيط المنتجات في منتصف المتصفح بالنسبة    
 -  justify-content: flex-start تستخدم لوضع المنتج من البدايه وهذه القيمة الاساسيه لها
 -  justify-content: flex-end تستخدم لوضع المنتج في نهاية الحاويه اي اذا كان المنتج يبدا من اليمين سيتم وضعه في الجهة الاخرى
 -  justify-content: space-around تستخدم لوضع وتحديد المسافه بين المنتجات من جميع الجهات
